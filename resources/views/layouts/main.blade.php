@@ -10,6 +10,7 @@
     <title>Comics</title>
 </head>
 <body>
+    @include('partials.header')
 
     <main class="container my-5">
 
